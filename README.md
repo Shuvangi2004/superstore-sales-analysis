@@ -48,3 +48,17 @@ View the interactive Tableau dashboard here:
 [Superstore Sales Dashboard](https://public.tableau.com/app/profile/shuvangi.bagchi/viz/SuperstoreSalesAnalysisSQLTableau_17834206754380/Dashboard1)
 
 ## Project Structure
+superstore_project/
+├── data/
+│   └── superstore.csv
+├── sql/
+│   └── queries.sql
+├── notebooks/
+│   └── analysis.ipynb
+└── README.md
+
+## How to Run
+1. Clone this repository
+2. Run `setup_db.py` to load CSV into SQLite
+3. Open `sql/queries.sql` in DB Browser for SQLite
+4. Open `notebooks/analysis.ipynb` in Jupyter Notebook
