@@ -5,6 +5,10 @@ A retail company wants to understand why profits vary across regions,
 categories, and customer segments, and identify actionable 
 recommendations to improve profitability.
 
+## Live Dashboard
+View the interactive Tableau dashboard here:
+[Superstore Sales Dashboard](https://public.tableau.com/app/profile/shuvangi.bagchi/viz/SuperstoreSalesAnalysisSQLTableau_17834206754380/Dashboard1)
+
 ## Tools Used
 - **SQL** (SQLite) — data extraction and analysis
 - **Python** (pandas, matplotlib, seaborn) — EDA and statistical analysis
@@ -43,9 +47,7 @@ recommendations to improve profitability.
 - Correlation analysis
 - 5 visualizations (histogram, bar charts, scatter plot, line chart)
 
-## Live Dashboard
-View the interactive Tableau dashboard here:
-[Superstore Sales Dashboard](https://public.tableau.com/app/profile/shuvangi.bagchi/viz/SuperstoreSalesAnalysisSQLTableau_17834206754380/Dashboard1)
+
 
 ## Project Structure
 superstore_project/
